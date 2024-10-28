@@ -1,11 +1,11 @@
 /* eslint-disable react/prop-types */
 import FreshCart from '../../../public/homepage.png';
-import UMS from '../../../public/UMS.PNG';
-import Cars from '../../../public/Cars.PNG';
-import games from '../../../public/GamesApp.PNG';
-import Weather from '../../../public/Weather.PNG';
-import Danlels from '../../../public/Danlels.PNG';
-import DevFolio from '../../../public/DevFolio.PNG';
+import UMS from '/public/UMS.jpg';
+import Cars from '/public/Cars.jpg';
+import games from '/public/GamesApp.jpg';
+import Weather from '/public/Weather.jpg';
+import Danlels from '/public/Danlels.jpg';
+import DevFolio from '/public/DevFolio.jpg';
 import { motion } from 'framer-motion';
 
 const projectData = [
