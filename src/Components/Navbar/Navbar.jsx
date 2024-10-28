@@ -55,13 +55,15 @@ export default function Navbar() {
 
         {/* Icons*/}
         <ul className="hidden md:flex gap-5">
-          <li
+         <a href="https://github.com/mahmoudabdos">
+         <li
             className="cursor-pointer text-xl opacity-70 
     transition-all duration-300 hover:text-blue-500 
     hover:opacity-100"
           >
             <FaGithub />
           </li>
+         </a>
 
           <li
             className="cursor-pointer text-xl opacity-70 
