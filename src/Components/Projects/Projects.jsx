@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import FreshCart from '../../../public/homepage.png';
+import bookStore from '../../../public/BookStore.jpg';
 import UMS from '/public/UMS.jpg';
 import Cars from '/public/Cars.jpg';
 import games from '/public/GamesApp.jpg';
@@ -21,6 +22,13 @@ const projectData = [
       - Payment Gateway: Secure payment processing using third-party services like Stripe.`,
     technologies: ["React", "Tailwind CSS", "Axios", "React-router-dom", "React-Query", "Context API"],
     navigateTo: "https://fresh-cart-beta-fawn.vercel.app/",
+  },
+  {
+    image: bookStore,
+    title: "Book Sore",
+    description: `An Online Book Store built using React and TypeScript, featuring a robust Admin Dashboard and a user-friendly interface for customers. This project offers role-based access, where admins can manage the store's inventory and users can browse, purchase, and review books.`,
+    technologies: ["React", "Type Script",  "Tailwind CSS", "Axios", "React-router-dom", "React-Query", "Redux",  "Context API"],
+    navigateTo: "https://online-book-store-sandy.vercel.app/",
   },
   {
     image: UMS,
