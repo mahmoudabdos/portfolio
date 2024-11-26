@@ -25,7 +25,7 @@ const projectData = [
   },
   {
     image: bookStore,
-    title: "Book Sore",
+    title: "Book Store",
     description: `An Online Book Store built using React and TypeScript, featuring a robust Admin Dashboard and a user-friendly interface for customers. This project offers role-based access, where admins can manage the store's inventory and users can browse, purchase, and review books.`,
     technologies: ["React", "Type Script",  "Tailwind CSS", "Axios", "React-router-dom", "React-Query", "Redux",  "Context API"],
     navigateTo: "https://online-book-store-sandy.vercel.app/",
